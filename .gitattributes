@@ -1,0 +1,5 @@
+# força LF em tudo
+* text=auto eol=lf
+
+# (opcional) garante LF nos builds
+dist/* text eol=lf
